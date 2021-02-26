@@ -1,4 +1,5 @@
-<h1>UI-Projects🔗
+<h1>UI-Projects👨🏾‍🎨</h1>
 <P>👨🏾‍💻In this repository, I practice my front end skills
-<ol><li> HTML <li> CSS <li> JavaScript* 
-<P><i> let the fun begin
+</P>
+<ol><li> HTML🧱 <li> CSS🎨 <li> JavaScript🕺🏾 </ol>
+<P><i> let the fun begin</p>
