@@ -1,0 +1,16 @@
+{
+  "name": "mawingu_TailCSS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build -i src/style.css -o dist/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.3.5",
+    "tailwindcss": "^2.2.15"
+  }
+}
